@@ -1,0 +1,47 @@
+.kartu {
+    width: 365px;
+    background-color: white;
+    padding: 40px;
+    border-radius: 35px;
+}
+
+.status {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #00b6df;
+}
+
+.username {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 24px;
+    color: #494949;
+    padding: 4px 0 10px 0;
+}
+
+.nohp {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    color: #494949;
+    margin-bottom: 10px;
+}
+
+.gambar {
+    width: 70px;
+    height: 70px;
+    border: 4px solid #b5babb;
+    border-radius: 50%;
+    margin-bottom: 6px;
+}
+
+.buttonedit {
+    background: #b5babb;
+    border-radius: 10px;
+    padding: 4px 20px;
+    border: none;
+    margin-top: 10px;
+    color: white;
+    font-weight: 600;
+}

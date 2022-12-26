@@ -1,0 +1,13 @@
+tr {
+    line-height: 30px;
+}
+
+/* .container {
+    display: flex;
+    justify-content: center;
+} */
+
+.table-akun {
+    margin-left: 20px; /* Jarak dengan elemen di sebelah kiri akan menjadi 20px */
+    margin-right: 20px; /* Jarak dengan elemen di sebelah kanan akan menjadi 20px */
+}
